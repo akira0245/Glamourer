@@ -253,6 +253,7 @@ namespace Glamourer.Customization
                 ClientLanguage.French   => Language.French,
                 ClientLanguage.German   => Language.German,
                 ClientLanguage.Japanese => Language.Japanese,
+                ClientLanguage.ChineseSimplified => Language.ChineseSimplified,
                 _                       => Language.English,
             };
 
